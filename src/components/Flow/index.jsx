@@ -13,7 +13,7 @@ import Sidebar from '../Sidebar/Sidebar'
 import CustomNode from '../CustomNode/CustomNode'
 
 // this is important! You need to import the styles from the lib to make it work
-import 'reactflow/dist/style.css'
+// import 'reactflow/dist/style.css'
 
 import './Flow.css'
 const nodeRecord = {
